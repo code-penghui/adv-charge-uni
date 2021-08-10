@@ -1,0 +1,20 @@
+.padding-6-10 {
+	padding: 6px 10px;
+}
+
+.page-header {
+	position: fixed;
+	height: 44px;
+	top: 0;
+	left: 0;
+	right: 0;
+	border-bottom: 1px solid $u-border-color;
+}
+
+.page-body {
+	position: fixed;
+	top: 44px;
+	left: 0;
+	right: 0;
+	bottom: 0;
+}
